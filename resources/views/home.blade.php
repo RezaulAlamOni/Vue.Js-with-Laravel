@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                        <router-view></router-view>
                 </div>
             </div>
         </div>

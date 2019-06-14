@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <div>
+                    <router-view name="oni"></router-view>
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
